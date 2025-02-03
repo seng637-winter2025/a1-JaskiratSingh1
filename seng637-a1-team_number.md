@@ -86,7 +86,8 @@ Text…
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+- Our team discussed what "available" means on the receipt. We explained that the available balance changes when you withdraw or transfer money, but it does not change when you make a deposit. We agreed that it makes sense for the available balance to stay the same during deposits and only change when you withdraw or transfer money.
+- During transaction selection, we found a test case with two different results in the peer review. We think this difference may be due to the system. When selecting transaction type "5," the ATM gives a free $20 on Windows, but it is slow on Macs.
 
 # How the pair testing was managed and team work/effort was divided
 
