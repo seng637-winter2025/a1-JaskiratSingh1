@@ -2,7 +2,7 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number |
+| Group: 17 |
 | ------------------- |
 | Frank Ma            |
 | Jaskirat Singh      |
