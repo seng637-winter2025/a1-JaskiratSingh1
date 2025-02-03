@@ -31,8 +31,7 @@ learned 1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+Before this lab, we learned about exploratory and manual functional testing in our lectures. In the lab, we applied these techniques to test the ATM software’s main functions like withdrawals and deposits. This experience helped us understand how to find and report issues effectively through hands-on practice.
 
 # High-level description of the exploratory testing plan
 
