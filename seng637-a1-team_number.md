@@ -91,11 +91,15 @@ Text…
 
 # How the pair testing was managed and team work/effort was divided
 
-Text…
+- In our three-member team, we organized pair testing by having two members work together at one keyboard while the third member observes and takes notes. This approach ensures that everyone participates actively and learns from each testing session. We rotated the roles so that each team member had the opportunity to test, observe, and provide feedback.
+
+- Each team member equally helped edit and review the report to ensure the deliverables were high quality.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+- We find that testing 40+ cases is difficult to stay focused and be accurate. Taking short breaks and working with different partners helps avoid feeling tired. Also, having another peer review the cases improves the accuracy of the results.
+
+- Starting early would be helpful, especially for assignments with many requirements and stages like this one.
 
 # Comments/feedback on the lab and lab document itself
 
