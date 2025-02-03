@@ -36,7 +36,8 @@ functional testing before this lab
 
 # High-level description of the exploratory testing plan
 
-Text…
+We will target the main functions: cash withdrawal, deposits, money transfers, balance inquiries, transaction cancellation, and receipt printing. Using a breadth-first approach, we will test all these functions lightly to understand the overall system behavior. This includes performing typical transactions like withdrawals, deposits, and transfers to ensure basic operations work correctly.
+Each of our group member will use roughly half an hour to test and will explore different transaction flows and document any observations or issues we find.
 
 # Comparison of exploratory and manual functional testing
 
