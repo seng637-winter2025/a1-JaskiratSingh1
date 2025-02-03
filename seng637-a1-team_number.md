@@ -2,7 +2,7 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number |
+| Group: 17 |
 | ------------------- |
 | Frank Ma            |
 | Jaskirat Singh      |
@@ -31,12 +31,51 @@ learned 1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+Before this lab, we learned about exploratory and manual functional testing in our lectures. In the lab, we applied these techniques to test the ATM software’s main functions like withdrawals and deposits. This experience helped us understand how to find and report issues effectively through hands-on practice.
 
 # High-level description of the exploratory testing plan
 
-Text…
+
+## 1. Scope of Testing
+
+### 1.1 Features to be Tested
+
+- **Cash Withdrawal**: Verify withdrawals in multiples of $20, ensure bank approval, and confirm cash dispensing.
+- **Deposits**: Test depositing cash/checks in envelopes, obtain bank approval, and handle envelope processing.
+- **Money Transfer**: Ensure transfers between linked accounts function correctly.
+- **Balance Inquiry**: Check accurate balance displays for all linked accounts.
+- **Cancel Transaction**: Validate that transactions can be aborted at any point using the Cancel key.
+- **Receipt Printing**: Confirm receipts display correct transaction details.
+- **Key-Operated Switch**: Test machine start/stop operations and operator functionalities.
+
+### 1.2 Features Not to be Tested
+
+- **User Interfaces**: Detailed UI aesthetics.
+- **Hardware Interfaces**: Physical component integrations.
+- **Software Interfaces**: Bank’s backend systems.
+- **Database Logic**: Internal data handling structures.
+- **Communication Interfaces**: Network protocols.
+- **Security and Performance**: Advanced security measures and load testing.
+
+## 2. Test Types
+
+We would go through the following testing types on our exploratory test:
+
+- **Functional Testing**: Assess each ATM function against the specified requirements.
+- **Integration Testing**: Ensure different modules work together seamlessly.
+- **System Testing**: Evaluate the complete ATM system’s compliance with specifications.
+- **Usability Testing**: Check ease of use for both customers and operators.
+- **Error Handling Testing**: Verify proper responses to invalid inputs or system failures.
+
+## 3. Test Logistics
+
+### 3.1 Who Will Test
+
+Everyone from the team will participate in testing. Jazz will focus on individual ATM features such as withdrawals and deposits. Frank will handle testing of interactions between different modules and check usability. Roxanne will work on accessing overall system performance and verify proper responses to invalide inputs or system failures.
+
+### 3.2 When Will Test Occur
+
+Each of team member will work in parallel on their tasks and compile results, document issues, and report findings after all tests are completed.
 
 # Comparison of exploratory and manual functional testing
 
@@ -59,4 +98,4 @@ Text…
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+- I found it very useful but also very hard to follow as we have several documents with overlapping content.
